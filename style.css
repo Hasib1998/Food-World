@@ -9,15 +9,15 @@ h1{
     text-align: center;
 }
 h2{
-    font-size: 50;
+    font-size: 58;
     color: maroon;
 text-align: left;
 }
 .apply{
-    color: chartreuse;
+    color:white;
 }
 .apply-2{
-    color:orangered;
+    color:turquoise;
 }
 .half-width{
     width: 50%;
@@ -31,6 +31,14 @@ text-align: left;
     display: flex;
     margin-bottom: 100px;
 }
+.top{
+    text-align: center;
+    background-color:purple;
+    margin: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+}
 .top-banner{
     background-image: url(images/7.png);
     background-repeat: no-repeats;
@@ -38,15 +46,20 @@ text-align: left;
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(red,green);
+    background-image: linear-gradient(orange,red);
     padding: 5px 40px;
     border-radius: 5px;
-    color:black
+    color:white
 }
+
+.middel{
+    color:green;
+}
+
 .middel-banner{
     background-image: url(images/Frame\ 58.jpg);
     background-repeat:no-repeat ;
-    padding: left 5px; ;
+    padding: left 5px;
 }
 .Recipe-item{
     text-align: center;
@@ -57,12 +70,16 @@ text-align: left;
     padding-left: 0%;
     border-radius: 17px;
     box-shadow: 15px 15px 40px grey;
+    text-align: center;
 }
 .shadow img{
     width: 100%;
 }
-.item{
+.semi-bottom{
     text-align: center;
-    color: orangered;
-    background-color: gray;
+    color: snow;
+    background-color:black;
+    margin: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
