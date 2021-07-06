@@ -1,0 +1,47 @@
+body{
+    font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+    color:tomato
+    text-align: center;
+}
+h2{
+    font-size: 50;
+    color: maroon;
+text-align: left;
+}
+.apply{
+    color: chartreuse;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+    padding-inline-start: 50px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.top-banner{
+    background-image: url(images/7.png);
+    background-repeat: no-repeats;
+    padding-left: 5%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red,green);
+    padding: 5px 40px;
+    border-radius: 5px;
+    color:black
+}
+.middel-banner{
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat:no-repeat ;
+    padding: left 5px; ;
+}
